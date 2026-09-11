@@ -19,7 +19,3 @@ app holds no permission to use the internet, and it collects nothing.
   can go, and what it never does.
 - **[Support](/TallyistAndroid/support/)**. Common questions, and how to reach
   the developer.
-
-The iPhone app is a separate app, built from the same product specification but
-storing and moving data differently. Its documents are at
-[semmes.github.io/Tallyist](https://semmes.github.io/Tallyist/).
