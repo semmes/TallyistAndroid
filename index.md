@@ -13,6 +13,10 @@ pattern. No goals, no streaks, no lectures. It reports, it never grades.
 It runs entirely on your own phone. There are no accounts and no servers, the
 app holds no permission to use the internet, and it collects nothing.
 
+Tallyist is free on
+[Google Play](https://play.google.com/store/apps/details?id=com.tallyist.android),
+for Android 8.0 and later.
+
 ## Documents
 
 - **[Privacy Policy](/TallyistAndroid/privacy/)**. What the app stores, where it
